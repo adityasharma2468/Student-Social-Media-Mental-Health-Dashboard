@@ -68,6 +68,10 @@
 | Education | 15.86% |
 | News | 11.22% |
 
+## 🎥 Dashboard Demo
+
+![Dashboard Demo](./dashboard-preview.png)
+
 ## 🛠️ Tools Used
 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
